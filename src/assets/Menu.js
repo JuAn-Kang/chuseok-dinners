@@ -56,7 +56,7 @@ export const menuEnglish = [
   },
   {
     name: "Autumn Cocktail",
-    recipe: "cinnamon, star anise, pear, apple, soju, honey, lime",
+    recipe: "cinnamon, star anise, ginger, pear, apple, soju, honey, lime",
   },
   {
     name: "Wild Raspberry Mimosa",
