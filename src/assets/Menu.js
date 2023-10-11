@@ -1,11 +1,12 @@
 export const menuKorean = [
   {
     name: "회무침",
-    recipe: "방어, 미나리, 딜, 깻잎, 양파, 초고추장, 깨, 콩가루",
+    recipe:
+      "방어, 깻잎, 샬롯, 부추, 양배추, 당근, 유자 초고추장, 들기름, 콩가루",
   },
   {
     name: "충무김밥",
-    recipe: "감태, 오징어, 순무, 무말랭이",
+    recipe: "두 번 구운 아오사 김, 참기름, 오징어무침, 무말랭이",
   },
   {
     name: "떡만둣국",
@@ -13,49 +14,52 @@ export const menuKorean = [
   },
   {
     name: "갈비찜",
-    recipe: "은행, 밤, 당근, 무, 양파, 배, 사과, 갈비, 잣",
+    recipe: "갈비, 은행, 밤, 당근, 무, 양파, 배, 사과, 잣",
   },
   {
     name: "고구마 티라미수",
-    recipe: "고구마, 마스카포네, 레이디핑거, 연유, 콩가루",
+    recipe: "고구마, 마스카포네, 레이디핑거, 연유, 콩가루, 바닐라빈",
   },
   {
     name: "가을 칵테일",
-    recipe: "배, 사과, 레몬, 생강, 계피, 팔각",
+    recipe: "배, 사과, 라임, 생강, 계피, 팔각",
   },
- {
+  {
     name: "복분자 미모사",
-    recipe: "복분자, 유자, 모스카토",
+    recipe: "복분자, 유자, 로제 모스카토",
   },
 ];
 
 export const menuEnglish = [
   {
     name: "Hamachi Crudo",
-    recipe: "hamachi, herbs, yuzu gochujang vinaigrette",
+    recipe:
+      "hamachi, shaved vegetables, yuzu gochujang vinaigrette, perilla seed oil, kinako",
   },
   {
     name: "Seaweed Roll",
-    recipe: "seaweed, squid, radish, dried radish",
+    recipe:
+      "Aosa seaweed, sea salt, sesame, rice served with squid salad and spicy dried radishes",
   },
   {
     name: "Beef Broth Dumpling Soup",
-    recipe: "bone broth, egg, rice cake, dumpling",
+    recipe: "bone broth, egg, rice cake, dumpling, pulled beef",
   },
   {
     name: "Braised Short Ribs",
-    recipe: "short ribs, gingko, chestnut, radish, pear, pine nut",
+    recipe:
+      "short ribs, gingko, chestnut, radish, carrot, apple, pear, pine nut",
   },
   {
     name: "Sweet Potato Tiramisu",
-    recipe: "sweet potato, mascarpone, vanilla, ladyfingers",
+    recipe: "sweet potato, kinako-vanilla bean mascarpone, ladyfingers",
   },
   {
     name: "Autumn Cocktail",
-    recipe: "pear, apple, lemon, ginger, cinnamon, star anise",
+    recipe: "cinnamon, star anise, pear, apple, soju, honey, lime",
   },
- {
+  {
     name: "Wild Raspberry Mimosa",
-    recipe: "omija, yuzu, pear, moscato",
+    recipe: "wild raspberry wine, rose moscato, yuzu, soju",
   },
 ];
